@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sedrUs4+lQ=",
+  "success": true,
+  "projectFilePath": "/Users/MortenStaunstrup/src/OrderService/OrdersApi/OrdersApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/MortenStaunstrup/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/MortenStaunstrup/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
